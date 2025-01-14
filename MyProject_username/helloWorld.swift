@@ -9,5 +9,8 @@ class myClass {
     
     func move() {
         print("Hello, world!")
+        print("Hello, world!")
+        print("Hello, world!")
+        print("Project Updated!")
     }
 }
