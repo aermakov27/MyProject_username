@@ -17,5 +17,6 @@ class myClass {
         print("This is 2 commit for this file!")
         print("This is 2 commit for this file!")
         print("Project Updated 2!")
+                print("This is 2 commit for this file!")
     }
 }
