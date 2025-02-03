@@ -19,5 +19,6 @@ class myClass {
         print("Project Updated!")
         
         print("This is kuntsevich commit!")
+        print("This is kuntsevich commit!")
     }
 }
